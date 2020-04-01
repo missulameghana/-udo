@@ -1,0 +1,1 @@
+("7.1" ("d7d1f1889150ff8f9b7ef465ac1557cc43feed9a" . "1879a5a24d1179982e66817c157382212e7bc2cb") #"/home/khushi/Desktop/Cs152-project/constants.rkt" (collects #"2htdp" #"image.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
